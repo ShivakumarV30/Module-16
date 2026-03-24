@@ -25,8 +25,8 @@ To write a Python program to construct an **AVL tree** and print the nodes of it
 
 ## PYTHON PROGRAM
 ```python
-#Reg.no:212222060224
-#Name: SANTHOSH M J
+#Reg.no:212222060239
+#Name: SHIVAKUMAR K V
 from TreeAVL.AVL import AVL
 
 def getDictTree(self):
